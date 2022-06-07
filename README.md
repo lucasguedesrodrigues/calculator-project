@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# About Project
 
 This project consists of a calculator made in react class, html5 and css3. 
 
